@@ -1,4 +1,6 @@
-### Hi there 👋
+hola me llamo brayan hurtado pacheco 
+y me gusta jugar videojuegos, leer, y escuchar musioca de todo tipo 
+actualmente estoy estudiando el curso de fundamentos en programacion web 
 
 <!--
 **Brayanhp2000/Brayanhp2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
